@@ -1,4 +1,4 @@
-# <p align="center"> **_Doppler Effect Simulator._** </p>
+# <p align="center"> **Doppler Effect Simulator** </p>
 
 ### My setup.
 1. NixOS 25.06.
@@ -12,4 +12,4 @@ gcc -Wall -Wextra -o doppler doppler.c -lraylib
 
 ### To do.
 
-- [ ] Makefile.
+- [ ] CMake.
